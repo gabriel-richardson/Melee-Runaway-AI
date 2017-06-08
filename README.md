@@ -1,5 +1,5 @@
 # Melee Runaway AI
-A SSBM AI that uses neuroevolution to learn how to avoid its opponents.
+An SSBM AI that uses neuroevolution to learn how to avoid its opponents.
 
 ## Requirements
 Tested on: Ubuntu 14.04 LTS, Dolphin 5.0
